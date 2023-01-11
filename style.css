@@ -1,0 +1,42 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td,th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th{
+    padding: 8px 0;
+}
+td{
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color: purple;
+    color: white;
+}
+th{
+    padding: 8px 0;
+    background-color: teal;
+    color:lightblue;
+}
+.summer{
+    background-color: greenyellow;
+}
+.minimum{
+    background-color: gray;
+}
+.school{
+    background-color: red;
+}
+.late{
+    background-color: yellow;
+}
+.winter{
+    background-color: cyan;
+}
